@@ -10,6 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <!--<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/doctrine/doctrine-plain-wordmark.svg" height="40" width="52" alt="vscode logo"/>-->
+ 
+ 
 </div>
 
 ###
