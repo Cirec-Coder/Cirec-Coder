@@ -1,5 +1,5 @@
 ### Bonjour à tous 👋
- - je suis actuellement en formation Web developpeur chez Elan Formation
+ - je suis actuellement en formation developpeur Web / Web Mobile chez Elan Formation
 
 ### un apreçu des langages et outils utilisés :
 <div align="left"> 
