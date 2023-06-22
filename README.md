@@ -1,5 +1,6 @@
 ### Bonjour à tous 👋
- - je suis actuellement en formation developpeur Web / Web Mobile chez Elan Formation
+ - je suis Developpeur Web / Web Mobile
+ - en recherche d'emploi ou de formation dans le développement.
 
 ### un apreçu des langages et outils utilisés :
 <div align="left"> 
