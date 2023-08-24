@@ -28,11 +28,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cirec-codec.cirec-codec)
 ![](https://komarev.com/ghpvc/?username=Cirec-Coder)
-
+<!--
 <img src="https://camo.githubusercontent.com/5cf34969096f579c439fa9eff556112deffb715a22a9fb228c7748d569eaa0bd/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d64656e7a616979792e64656e7a61697979266c6566745f746578743d50726f66696c652532307669657773" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=cirec-codec.cirec-codec&left_text=Profile%20views" style="max-width: 100%;">
 ###
 
-<!--
+
 **Cirec-Coder/Cirec-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
