@@ -26,6 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Cirec-Coder" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://camo.githubusercontent.com/5cf34969096f579c439fa9eff556112deffb715a22a9fb228c7748d569eaa0bd/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d64656e7a616979792e64656e7a61697979266c6566745f746578743d50726f66696c652532307669657773" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Cirec-Coder&amp;left_text=Profile%20views" style="max-width: 100%;">
 ###
 
 <!--
